@@ -1,6 +1,9 @@
 # EX-05 Implement Simple Hill Climbing Algorithm
+**Developed By: MOHAMED ASEEM P **<br>
+**Register No: 212221230063**
+
 ### Aim:
-Implement Simple Hill Climbing Algorithm and Generate a String by&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:**<br>
+Implement Simple Hill Climbing Algorithm and Generate a String by&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 Mutating a Single Character at each iteration.
 ### Theory:
 Hill climbing is a variant of Generate and test in which feedback from test procedure is used to help the generator decide which direction to move in search space.
@@ -64,9 +67,6 @@ def SimpleHillClimbing():
             best_score=score
 SimpleHillClimbing()
 ```
-
-**Developed By: Javith farkhan S**<br>
-**Register No: 212221240017**
 
 <table>
 <tr>
